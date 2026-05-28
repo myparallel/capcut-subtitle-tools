@@ -1,0 +1,10 @@
+_tts_temp/
+_patch_temp/
+_slice_temp/
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.mp3
+.DS_Store
+Thumbs.db
